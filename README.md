@@ -92,7 +92,7 @@ brew install fluidsynth
 ```
 
 ## 🚀 Usage
-- Run the respective Jupyter Notebooks to get the results
+- Run the Python scripts to get the results
 
 
 
